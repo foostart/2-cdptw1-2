@@ -13,7 +13,7 @@
             <nav class="navbar navbar-inverse">
 
                 <div class="navbar-header">
-                    <button class="navbar-toggle" type="button" data-toggle="collapse" >
+                    <button class="navbar-toggle" type="button" data-toggle="collapse" data-target=".navbar-collapse">
                         <span class="sr-only">Toggle navigation</span>
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
@@ -26,13 +26,13 @@
                     <ul class="nav navbar-nav">
 
                         <li class="dropdown">
-                            <a href="../../module/fooproject3/Home.php" >HOME</a>
+                            <a href="../../module/fooproject3/Home.php" >HOME <b class="caret"></b></a>
                            
                         </li>
 
                         <li class="dropdown mega-dropdown">
-                            <a href="../fooproject3/Product.php">PRODUCTS </span></a>	
-                            <!-- <ul class="dropdown-menu mega-dropdown-menu">
+                            <a href="../fooproject3/Product.php">PRODUCTS </span> <b class="caret"></b></a>	
+                                <ul class="dropdown-menu mega-dropdown-menu">
 
                                 <li class="col-sm-3">
                                     <ul>
@@ -77,15 +77,15 @@
                                     </ul>
                                 </li>
 
-                            </ul>	 -->			
+                            </ul>	 			
                         </li>
 
                         <li class="dropdown mega-dropdown">
-                            <a href="../fooproject3/Blog.php">BLOG </a>				
-                           <!--  <ul class="dropdown-menu mega-dropdown-menu"> -->
+                            <a href="../fooproject3/Blog.php">BLOG <b class="caret"></b></a>				
+                                <ul class="dropdown-menu mega-dropdown-menu"> -->
 
                                 <!--Item-->
-                                <!-- <li class="col-sm-4">
+                                <li class="col-sm-4">
                                     <ul>
                                         <div  class="carousel slide" data-ride="carousel">
                                             <div class="carousel-inner">                                                    
@@ -98,28 +98,27 @@
                                             </div>
                                         </div>
                                     </ul>
-                                </li> -->
+                                </li> 
                                 <!-- End Item -->
 
                                 <!--Item -->
-<!--                                 <li class="col-sm-4">
+                                 <li class="col-sm-4">
                                     <ul>
                                         <div  class="carousel slide" data-ride="carousel">
                                             <div class="carousel-inner">
                                                 <div class="item active">
                                                     <a href="#"><img src="../806/images/blog_2_1024x1024.jpg" class="img-responsive" alt="product 1"></a>
                                                     <h4><small>Monday, July 11, 2016</small></h4>
-                                                    <h3 class="blog_title"><a href="#">We can satisfy customers with different  class="btn btn-primary" type="button">Read more</button>        
-                                                </div>claims</a></h3>
-                                                    <button
-                                            </div>                                   
+                                                    <h3 class="blog_title"><a href="#">We can satisfy customers with different</a></h3> 
+                                                    <button class="btn btn-primary" type="button">Read more</button>
+                                                </div>                                   
                                         </div>
                                     </ul>
-                                </li> -->
+                                </li> 
                                 <!-- End Item -->
 
                                 <!--Item -->
-                                <!-- <li class="col-sm-4">
+                                 <li class="col-sm-4">
                                     <ul>
                                         <div  class="carousel slide" data-ride="carousel">
                                             <div class="carousel-inner">
@@ -132,18 +131,18 @@
                                             </div>
                                         </div>
                                     </ul>
-                                </li> -->
+                                </li> 
                                 <!-- End Item -->
 
-                            <!-- </ul> -->				
+                             </ul> 				
                         </li>
 
                         <li class="dropdown mega-dropdown">
-                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">SALE </span></a>				
-                            <!-- <ul class="dropdown-menu mega-dropdown-menu"> -->
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">SALE </span> <b class="caret"></b></a>				
+                             <ul class="dropdown-menu mega-dropdown-menu"> 
 
                                 <!-- Item -->
-                                <!-- <li class="col-sm-3">
+                                 <li class="col-sm-3">
                                     <ul>
                                         <div  class="carousel slide" data-ride="carousel">
                                             <div class="carousel-inner">
@@ -160,11 +159,11 @@
                                             </div>
                                         </div>
                                     </ul>
-                                </li> -->
+                                </li> 
                                 <!-- End Item -->
 
                                 <!-- Item -->
-                                <!-- <li class="col-sm-3">
+                                 <li class="col-sm-3">
                                     <ul>
                                         <div class="carousel slide" data-ride="carousel">
                                             <div class="carousel-inner">
@@ -181,10 +180,10 @@
                                         </div>
                                     </ul>
                                 </li>
-                                End Item -->
+                                <!-- End Item -->
 
                                 <!-- Item -->
-                                <!-- <li class="col-sm-3">
+                                 <li class="col-sm-3">
                                     <ul>
                                         <div  class="carousel slide" data-ride="carousel">
                                             <div class="carousel-inner">
@@ -201,11 +200,11 @@
                                             </div>
                                         </div>
                                     </ul>
-                                </li> -->
+                                </li> 
                                 <!-- End Item -->
 
                                 <!-- Item --> 
-<!--                                 <li class="col-sm-3">
+                                 <li class="col-sm-3">
                                     <ul>
                                         <div  class="carousel slide" data-ride="carousel">
                                             <div class="carousel-inner">
@@ -222,10 +221,10 @@
                                             </div>       
                                         </div>
                                     </ul>
-                                </li> -->
+                                </li> 
                                 <!-- End Item --> 
 
-                            <!-- </ul>				 -->
+                             </ul>				 
                         </li>
 
                         <li class="dropdown"><a href="../../module/fooproject3/About.php">ABOUTUS</a></li>

@@ -24,40 +24,40 @@ $url_path = str_replace('\\', '/', $url_path);
                     <div class="swiper-slide">
                         <div class="block">
                             <div class="image">
-                                <img src="images/custom_brand2_img.jpg" alt=""/>
+                                <img src="images/custom_brand1_img.jpg" alt=""/>
                             </div>
                         </div>
                     </div>
                     <div class="swiper-slide">
                         <div class="block">
                             <div class="image">
-                                <img src="images/custom_brand3_img.jpg" alt=""/>
+                                <img src="images/custom_brand1_img.jpg" alt=""/>
                             </div>
                         </div>
                     </div>
                     <div class="swiper-slide">
                         <div class="block">
                             <div class="image">
-                                <img src="images/custom_brand4_img.jpg" alt=""/>
+                                <img src="images/custom_brand1_img.jpg" alt=""/>
                             </div>
                         </div>
                     </div>
                     <div class="swiper-slide">
                         <div class="block">
                             <div class="image">
-                                <img src="images/custom_brand5_img.jpg" alt=""/>
+                                <img src="images/custom_brand1_img.jpg" alt=""/>
                             </div>
                         </div>
                     </div>
                     <div class="swiper-slide">
                         <div class="block">
                             <div class="image">
-                                <img src="images/custom_brand6_img.jpg" alt=""/>
+                                <img src="images/custom_brand1_img.jpg" alt=""/>
                             </div>
                         </div>
                     </div>
-                </div>
-                <div class="swiper-pagination"></div>
+                </div><br> 
+                <div class="swiper-pagination"></div><br>
                 <!-- Add Arrows -->
                 <div class="swiper-button-next"></div>
                 <div class="swiper-button-prev"></div>

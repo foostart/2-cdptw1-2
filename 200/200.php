@@ -32,8 +32,6 @@ $less->compileFile('./less/tables.less', 'css/tables.css');
         <script src="js/bootstrap.min.js"></script>
         <script src="js/back-to-top.js"></script>
         <script src="js/sidebar-left.js"></script>
-        <script src="js/collapse-close.js"></script>
-        <script src="js/check-all.js"></script>
     </head>
 
     <body>

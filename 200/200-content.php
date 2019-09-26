@@ -13,7 +13,7 @@ $url_path = str_replace('\\', '/', $url_path);
             <div class="col-md-2 left_col">
                 <div class="nav-sidemenu">
                     <div class="navbar nav_logo">
-                        <a href="../dashboard2/index.php" class="site_title">
+                        <a href="#" class="site_title">
                             <i class="fa fa-paw"></i>
                             <span>Gentelella Alela!</span>
                         </a>
@@ -340,13 +340,6 @@ $url_path = str_replace('\\', '/', $url_path);
                         </nav>
                     </div>
                 </div>
-                <div class="clearfix"></div>
-
-                <footer>
-                    Gentelella - Bootstrap Admin Template by
-                    <a href="#"> Colorlib</a>
-                </footer>
-            </div>
             <div id="back-to-top"><i class="fa fa-chevron-up"></i></div>
         </div>
     </div>

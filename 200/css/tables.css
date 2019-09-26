@@ -88,6 +88,7 @@
 }
 .tables .left_col .nav-sidemenu .nav_mainmenu .menu-list .side-menu {
   margin-top: 10px;
+  margin-right: -15px;
 }
 .tables .left_col .nav-sidemenu .nav_mainmenu .menu-list .side-menu li {
   position: relative;
@@ -465,6 +466,7 @@
 }
 .tables.toggled .nav_response nav.menu-res {
   text-align: center;
+  margin-right: -22px;
 }
 .tables.toggled .nav_response nav.menu-res ul {
   padding: 0;

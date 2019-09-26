@@ -129,7 +129,7 @@ $url_path = str_replace('\\', '/', $url_path);
                                                 <h3 class="blog_title"><a href="#">We can help you solve any problem because we provide only...</a></h3>
                                                 <button class="btn btn-primary" type="button">Read more</button>        
                                             </div>
-                                        </div>>
+                                        </div>
                                     </li>
                                 </ul>
                             </li> 

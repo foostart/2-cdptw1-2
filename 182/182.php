@@ -17,7 +17,7 @@ $less->compileFile('./less/type-182.less', 'css/type-182.css');
 ?>﻿
 <!DOCTYPE html>
 
-<html style="background-color: #f3f3f4;">
+<html style="background-color: #f3f3f4;" lang="en">
 
     <head>
         <title>182</title>
@@ -27,6 +27,8 @@ $less->compileFile('./less/type-182.less', 'css/type-182.css');
         <link href="css/font-awesome.min.css" rel="stylesheet" type="text/css" />
         <link href="css/bootstrap.min.css" rel="stylesheet" type="text/css" />
         <link href="css/type-182.css" rel="stylesheet" type="text/css" />
+        <script src="js/jquery-1.11.0.min.js"></script>
+        <script src="js/rating.js"></script>
     </head>
 
     <body>

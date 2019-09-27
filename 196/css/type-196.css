@@ -1,11 +1,9 @@
 .type-196 {
-  width: 100%px;
+  width: 100%;
 }
 .type-196 .container {
   padding-right: 15px;
   padding-left: 15px;
-  margin-right: auto;
-  margin-left: auto;
 }
 .type-196 .swiper-button-next,
 .type-196 .swiper-button-prev {
@@ -17,7 +15,9 @@
   text-align: center;
   width: 30px;
   height: 55px;
-  margin-top: -15px;
+  margin-top: -3px;
+  margin-left: -10px;
+  margin-right: -10px;
 }
 .type-196 .swiper-button-prev:hover,
 .type-196 .swiper-button-next:hover {

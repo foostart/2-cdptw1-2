@@ -18,7 +18,7 @@ $url_path = str_replace('\\', '/', $url_path);
                 </div>
             </div>
             <div class="row popup-products">
-                <div class="col-md-3">
+                <div class="col-md-3 col-sm-4 col-xs-6">
                     <div class="product col-md-12">
                         <div class="product-inner">
                             <div class="product-img">
@@ -66,7 +66,7 @@ $url_path = str_replace('\\', '/', $url_path);
                     </div>
                 </div>
 
-                <div class="col-md-3">
+                <div class="col-md-3 col-sm-4 col-xs-6">
                     <div class="product col-md-12">
                         <div class="product-inner">
                             <div class="product-img">
@@ -114,7 +114,7 @@ $url_path = str_replace('\\', '/', $url_path);
                     </div>
                 </div>
 
-                <div class="col-md-3">
+                <div class="col-md-3 col-sm-4 col-xs-6">
                     <div class="product col-md-12">
                         <div class="product-inner">
                             <div class="product-img">
@@ -162,7 +162,7 @@ $url_path = str_replace('\\', '/', $url_path);
                     </div>
                 </div>
 
-                <div class="col-md-3">
+                <div class="col-md-3 col-sm-4 col-xs-6">
                     <div class="product col-md-12">
                         <div class="product-inner">
                             <div class="product-img">
@@ -209,7 +209,7 @@ $url_path = str_replace('\\', '/', $url_path);
                         </div>
                     </div>
                 </div>
-                <div class="col-md-3">
+                <div class="col-md-3 col-sm-4 col-xs-6">
                     <div class="product col-md-12">
                         <div class="product-inner">
                             <div class="product-img">

@@ -13,7 +13,7 @@ if (!class_exists('lessc')) {
 }
 
 $less = new lessc;
-$less->compileFile('./less/type-187.less', 'css/type-187.css');
+$less->compileFile('./less/187.less', 'css/187.css');
 ?>
 <!DOCTYPE html>
 
@@ -25,12 +25,11 @@ $less->compileFile('./less/type-187.less', 'css/type-187.css');
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
         <link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
-        <link href="css/type-187.css" rel="stylesheet" type="text/css" />
+        <link href="css/187.css" rel="stylesheet" type="text/css" />
         <link href="css/bootstrap.min.css" rel="stylesheet" type="text/css" />       
         <script src="js/jquery-1.11.0.min.js"></script>       
         <script src="js/thumb.js"></script>
         <script src="js/rating1.js"></script>
-        <script src="js/187.js"></script>
     </head>
 
     <body>

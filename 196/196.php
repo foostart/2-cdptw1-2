@@ -10,7 +10,7 @@ if (!class_exists('lessc')) {
     require_once($dir_block . '/libs/lessc.inc.php');
 }
 $less = new lessc;
-$less->compileFile('less/type-196.less', 'css/type-196.css');
+$less->compileFile('less/196.less', 'css/196.css');
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -20,7 +20,7 @@ $less->compileFile('less/type-196.less', 'css/type-196.css');
         <link href="<?php echo $url_path ?>/css/font-awesome.min.css" rel="stylesheet" type="text/css">
         <link href="<?php echo $url_path ?>/css/bootstrap.min.css" rel="stylesheet" type="text/css"/>
         <link href="<?php echo $url_path ?>/css/swiper.min.css" rel="stylesheet" type="text/css"/>
-        <link href="<?php echo $url_path ?>/css/type-196.css" rel="stylesheet" type="text/css" />
+        <link href="<?php echo $url_path ?>/css/196.css" rel="stylesheet" type="text/css" />
         <script src="<?php echo $url_path ?>/js/jquery-2.1.4.min.js"></script>
         <script src="<?php echo $url_path ?>/js/bootstrap.min.js" ></script>  
         <script src="<?php echo $url_path ?>/js/swiper.min.js"></script>

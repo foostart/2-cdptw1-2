@@ -1,9 +1,6 @@
 body {
   font-family: 'Open Sans', 'sans-serif';
 }
-.type-806 {
-  background-color: #131930;
-}
 .type-806 .mega-dropdown {
   position: static !important;
 }
@@ -143,4 +140,7 @@ body {
   background: #fff !important;
   border-color: #fff !important;
   color: #4d7df0 !important;
+}
+.type-806 .container {
+  padding: 3%;
 }

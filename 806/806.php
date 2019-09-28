@@ -13,20 +13,20 @@ if (!class_exists('lessc')) {
 }
 
 $less = new lessc;
-$less->compileFile('./less/type-806.less', 'css/type-806.css');
+$less->compileFile('./less/806.less', 'css/806.css');
 ?>
 
 <!DOCTYPE html>
 
 <html lang="en">
     <head>
-        <title>Menu</title>
+        <title>806</title>
         <link rel="stylesheet" type="text/css" href="<?php echo $url_path ?>/css/font-awesome.min.css">
         <link rel="stylesheet" type="text/css" href="<?php echo $url_path ?>/css/bootstrap.min.css">
-        <link rel="stylesheet" type="text/css" href="<?php echo $url_path ?>/css/type-806.css">
+        <link rel="stylesheet" type="text/css" href="<?php echo $url_path ?>/css/806.css">
         <script src="<?php echo $url_path ?>/js/jquery-3.1.1.min.js"></script>
         <script src="<?php echo $url_path ?>/js/bootstrap.min.js"></script>
-        <script src="<?php echo $url_path ?>/js/type-806.js"></script>
+        <script src="<?php echo $url_path ?>/js/806.js"></script>
     </head>
 
     <body>

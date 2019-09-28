@@ -18,7 +18,7 @@ $less->compileFile('./less/806.less', 'css/806.css');
 
 <!DOCTYPE html>
 
-<html lang="en">
+<html lang="vi">
     <head>
         <title>806</title>
         <link rel="stylesheet" type="text/css" href="<?php echo $url_path ?>/css/font-awesome.min.css">

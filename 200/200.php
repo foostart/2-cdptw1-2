@@ -13,7 +13,7 @@ if (!class_exists('lessc')) {
 }
 
 $less = new lessc;
-$less->compileFile('./less/tables.less', 'css/tables.css');
+$less->compileFile('./less/200.less', 'css/200.css');
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -28,6 +28,7 @@ $less->compileFile('./less/tables.less', 'css/tables.css');
         <link rel="stylesheet" href="css/bootstrap.min.css">
         <link rel="stylesheet" href="css/font-awesome.min.css">
         <link rel="stylesheet" href="css/tables.css">
+        <link rel="stylesheet" type="text/css" href="<?php echo $url_path ?>/css/200.css">
         <script src="js/jquery-2.1.4.min.js"></script>
         <script src="js/bootstrap.min.js"></script>
         <script src="js/back-to-top.js"></script>
